@@ -1,0 +1,6 @@
+print("\\")
+print("\'")
+print("\"")
+print("Oi\nTudo bem?")
+print("Gabrielle\tMota")
+print("Gabriela\ble")
